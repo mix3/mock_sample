@@ -1,5 +1,5 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="jmock">
+<suite name="mock_sample">
   <test verbose="2" name="jmockit.TestJMockitSample" annotations="JDK">
     <classes>
       <class name="jmockit.TestJMockitSample"/>
