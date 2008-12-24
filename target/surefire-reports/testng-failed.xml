@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" skipfailedinvocationCounts="false" verbose="0" name="Failed suite [Command line suite]" junit="false" annotations="JDK">
+  <test name="Command line test(failed)" junit="false" annotations="JDK">
+    <classes>
+      <class name="jmockit.TestJMockitSample">
+        <methods>
+          <include name="jmockTest"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

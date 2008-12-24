@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Command line test" failures="0" tests="2" time="0.094" errors="0">
+  <properties/>
+  <testcase name="callEcho" time="0.015" classname="easyMock.TestEasyMockSample"/>
+  <testcase name="callGet" time="0.0" classname="easyMock.TestEasyMockSample"/>
+</testsuite>

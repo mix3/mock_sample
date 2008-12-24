@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="jmock">
+    <groups>
+    </groups>
+    <test name="jmockit.TestJMockitSample">
+      <class name="jmockit.TestJMockitSample">
+        <test-method status="PASS" signature="jmockTest()" name="jmockTest" duration-ms="47" started-at="2008-12-24T14:46:35Z" finished-at="2008-12-24T14:46:35Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

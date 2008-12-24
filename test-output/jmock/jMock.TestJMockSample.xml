@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jMock.TestJMockSample" failures="0" tests="2" time="0.641" errors="0">
+  <properties/>
+  <testcase name="callGet" time="0.281" classname="jMock.TestJMockSample"/>
+  <testcase name="callEcho" time="0.031" classname="jMock.TestJMockSample"/>
+</testsuite>

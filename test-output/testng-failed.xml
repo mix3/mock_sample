@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="5" skipfailedinvocationCounts="false" verbose="1" name="Failed suite [jmock]" junit="false" annotations="JDK">
+  <test name="jmockit.TestJMockitSample(failed)" junit="false" annotations="JDK">
+    <classes>
+      <class name="jmockit.TestJMockitSample">
+        <methods>
+          <include name="jmockTest"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>
